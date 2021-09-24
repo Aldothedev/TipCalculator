@@ -1,6 +1,6 @@
 # Tip calculator App
 
-See The Live Site: [Tip Calculator](https://aldothedev.github.io/Calculator/)
+See The Live Site: [Tip Calculator](https://aldothedev.github.io/TipCalculator/)
 
 ### Built with
 
